@@ -1,22 +1,26 @@
 # Basic Book Title Search Example
 
 To find records for a specific book title, enter one or more versions of the title in the “Basic Book Title Search” box on the homepage. For example, if you were interested in *Jiaonü yigui* 教女遺規 (bequeathed rules for the teaching of girls) by Chen Hongmou 陳宏謀, simply type the title into the search box. The results page shows that there are twenty-eight storage records that contain this title and that they range in time from 1726 to 1927:
+
 ![](../images/LLXroIo.png)
 
 
 From here, the user can explore the results by checking either the box to the left of the book title, or the “select all” box directly above it. Then click on the Explore button (the eye symbol), which will load the results:
+
 ![](../images/I5Pi38r.png)
 
 
 
 
 The page that comes up will have five sections: The data table (storage records), summary, timeline, geo-distribution, and refine results panel. If your screen is not large enough to display all fields, scroll down to see the timeline and geo-distribution tool.
+
 ![](../images/fRAd4g8.png)
 
 
 
 
 Next, expand the data table to examine detailed storage records. 
+
 ![](../images/9ZAilCK.png)
 
 
@@ -58,6 +62,7 @@ known serial acquisition date
 special_time
 
 Click on the Columns button to add library information and source metadata.
+
 ![](../images/j0x1po6.png)
 
 
@@ -81,11 +86,13 @@ The locations of the four storage records will appear on the map in the Geo-dist
 
 
 Clicking on the blue dot will bring up the storage record as a side panel.
+
 ![](../images/l5N2Smd.png)
 
 
 
 A timeline of all *Jiaonü yigui* records can be saved as an image file with a legend added and color selected.
+
 ![](../images/SlKiWTL.png)
 
 
@@ -95,4 +102,5 @@ If you wanted to research *Jiaonü yigui* not only as a stand-alone title, but a
 
 
 This would produce a larger set of storage records:
+
 ![](../images/lCnnmbi.png)
