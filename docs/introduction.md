@@ -1,0 +1,7 @@
+# Introduction
+
+This guide provides a basic description of BIC functions. For a detailed discussion of the data curation, methodology, and issues in using BIC, see the “Data Paper” under the “About” tab.
+
+BIC is designed for researchers interested in the history of books in China. With BIC, a researcher can explore the geographic distribution of particular titles in user-defined time periods, research people associated with book authorship and acquisition, how the types of books in schools changed over time, the history of editions, etc. BIC incorporates information on over 30,000 books, most of which were located in local schools. For each book there is a “Storage Record” consisting of associated time and location information, which makes possible chronological visualizations and spatial mapping. Additional information, such as the manner of acquisition, number of volumes, author, format, and publisher, is included when available in the original source. BIC also has a “Notes” field that contain Joseph Dennis’ research notes. These notes provide his rationale for book date estimates and other information on the books.
+
+BIC has multiple ways to search for, refine, and visualize data. From the homepage, a user can directly search a book title using Basic Book Title Search or open the Advanced Search or Browse Titles pages to begin. Results are displayed in three panels: Data Table, Timeline, and Geo-distribution. Results can also be loaded into a comparison tool. Results can be downloaded as CSV files and visualizations can be saved as PNG files.

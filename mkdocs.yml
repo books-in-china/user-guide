@@ -1,0 +1,17 @@
+site_name: BIC User Guide
+site_url: https://www.booksinchina.org/bicdb/
+nav:
+    - Introduction: 'introduction.md'
+    - 'Getting Started':
+        - '1. Browse Titles Example': 'getting_started/browse_titles.md'
+        - '2. Basic Book Title Search Example': 'getting_started/basic_book_title_search.md'
+        - '3. Advanced Search Example': 'getting_started/advanced_search.md'
+    - Buttons: 'buttons.md'
+    - FAQ: 'faq.md'
+extra_css: ['extra.css']
+theme:
+    name: readthedocs
+    include_homepage_in_sidebar: false
+# markdown_extensions:
+#     - toc:
+#         toc_depth: 4
