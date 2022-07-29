@@ -63,16 +63,19 @@ Click on the Columns button to add library information and source metadata.
 
 
 From the data table it is clear that Chen Hongmou distributed *Jiaonü yigui* to Confucian schools in the provinces where he was serving as provincial governor. If you wanted to examine the history of *Jiaonü yigui* in one province, you could click on a province name in the Summary panel. For example, if you click “江西” and then the “Add Results into Filter” button, BIC will display only the eleven results from Jiangxi. Within the results displayed in the data field the user can search for particular terms results by doing a “find” (Command F on a Mac). This will bring up a search box. Results will be highlighted in yellow.
+
 ![](../images/8dkKcJe.png)
 
 
 
 These results could be refined to those containing Chen Hongmou’s surname by adding “陳” into the “Storage Information” search box in the Refine Results panel.
+
 ![](../images/ugS7xyB.png)
 
 
 
 The locations of the four storage records will appear on the map in the Geo-distribution panel. In the map, provincial and prefectural boundaries have been added using the Base Map Selection button. There are only three dots for four records because one location (Jishui County School 吉水縣學) has two records of the same book.
+
 ![](../images/CO3FXES.png)
 
 
@@ -87,6 +90,7 @@ A timeline of all *Jiaonü yigui* records can be saved as an image file with a l
 
 
 If you wanted to research *Jiaonü yigui* not only as a stand-alone title, but as one of five works later published as a set (*Wu zhong yi gui* 五種遺規), you could enter all of the titles in the initial search, as in the screen shot below:
+
 ![](../images/FV4rXie.png)
 
 
