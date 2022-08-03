@@ -1,43 +1,13 @@
 
-
-1. install python
-
-   suggest to install conda or anaconda
-
-
-2. https://www.mkdocs.org/getting-started/
-
-   pip install mkdocs
-
-   mkdocs new user-guide && cd user-guide
-
-   mkdocs serve 
-
-       for preview
-
-       ctrl + c to stop the server
-
-3. mkdocs build
-        a folder: site will be generated
-
-4. create a new repository in github
-
-5. clone the repository by GitHub Desktop
-
-    rename mkdoc project folder temporially
-
-    clone the repository
-
-    move all files of old mkdoc project into the cloned the repository folder
-
-6. mkdocs gh-deploy
-
-    this will fail by the https authentication of github, but it's ok... we need this to create the branch: gh-pages
-
-7. commit and push by GitHub Desktop
-
-    switch to gh-pages branch first, then commit & push
-
-
+Steps:
+ 1. open VSCode editor, bring up file to edit code, save it, it should show in the local environment. 
+ 
+ 2. To preview, type `mkdocs serve` in terminal bottom. if everything goes well, you can stop the server in VSCode by typing `Control + C`.
+ 
+ 3. then commit the source code to Github using purple Github desktop, files with changes will show, write a summary, then hit commit, then push origins, 
+ 
+ 4. generate the new user guide by type `mkdocs gh-deploy` in terminal bottom. if needed, input Github user name (type Control C to stop it), 
+ 
+ 5. then go back to purple Github desktop, switch branch to gh-pages, then type summary of checked file, then hit blue publish button. Then hard reload BIC User Guide to check it.
 
 

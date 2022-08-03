@@ -1,4 +1,4 @@
-# Introduction
+# Index Home
 
 This guide provides a basic description of BIC functions. For a detailed discussion of the data curation, methodology, and issues in using BIC, see the “Data Paper” under the “About” tab.
 
